@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "EnergyBlade-128x128-export.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

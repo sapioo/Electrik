@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "ScreenCat.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
